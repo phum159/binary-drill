@@ -2,7 +2,7 @@
 
 เว็บฝึกโจทย์แปลงเลขฐาน บวก ลบ คูณ หารเลขฐานสอง สำหรับวิชา Computer Architecture and Organization
 
-🔗 **ใช้งานได้ที่:** https://ชื่อผู้ใช้.github.io/binary-drill/
+🔗 **ใช้งานได้ที่:** https://phum159.github.io/binary-drill/
 
 ## ฟีเจอร์
 
